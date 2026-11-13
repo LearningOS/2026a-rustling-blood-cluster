@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-blood-cluster",
-  "commit": "90c0dd06642202b6c31cbef2f8c592f23b90fa51",
-  "score": 48,
+  "commit": "1916d1ebf14211d1210cfdb1b584270995d5ebf8",
+  "score": 52,
   "totalScore": 110,
   "exercises": [
     {
@@ -373,30 +373,30 @@
     {
       "name": "errors3",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "errors4",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "errors5",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "errors6",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "generics1",
@@ -778,7 +778,7 @@
     }
   ],
   "student": "blood-cluster",
-  "runId": "43409928490",
+  "runId": "43423612963",
   "runAttempt": "1",
   "upload": {
     "status": "pending"
